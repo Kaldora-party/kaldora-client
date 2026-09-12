@@ -20,4 +20,4 @@ Download the latest `kaldora-client.zip` from [Releases](../../releases/latest).
 3. Crie sua conta em https://kaldora.party e entre — o servidor já está configurado, sem endereço ou porta.
 4. Encontrou um bug? Pressione **Ctrl+Z** no jogo ou abra uma issue.
 
-Bug reports / Zgłoszenia błędów / Relatos de bugs: https://github.com/KarolakTibia/kaldora-client/issues
+Bug reports / Zgłoszenia błędów / Relatos de bugs: https://github.com/Kaldora-party/kaldora-client/issues
