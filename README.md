@@ -1,25 +1,23 @@
-# Kaldora — klient gry
+# Kaldora — game client
 
-Klient Open Tibia 8.60 dla serwera **Kaldora** (https://kaldora.party).
-Pobierz najnowszy plik z sekcji **Releases** po prawej stronie.
-
-## Instalacja (Windows)
-1. Pobierz `kaldora-client.zip` z [Releases](../../releases/latest).
-2. Rozpakuj do dowolnego folderu (np. `C:\Kaldora`).
-3. Uruchom `otclient_dx_x64.exe` (DirectX, zalecany) albo `otclient_gl_x64.exe` (OpenGL).
-4. Konto zakładasz na https://kaldora.party — potem logujesz się w grze.
-5. Serwer jest wpisany na sztywno: `play.kaldora.party:7100`.
-
-Znalazłeś błąd? Naciśnij **Ctrl+Z** w grze i opisz problem — zgłoszenie trafi do administracji.
+Download the latest `kaldora-client.zip` from [Releases](../../releases/latest). One ZIP file, no RAR needed.
 
 ## English
-1. Download `kaldora-client.zip` from [Releases](../../releases/latest).
-2. Unpack anywhere and run `otclient_dx_x64.exe`.
-3. Create an account at https://kaldora.party and log in.
-4. Server: `play.kaldora.party:7100`. Report bugs with **Ctrl+Z**.
+1. Unpack the archive anywhere (e.g. `C:\Kaldora`).
+2. Run `otclient_dx_x64.exe` (DirectX, recommended) or `otclient_gl_x64.exe` (OpenGL).
+3. Create your account at https://kaldora.party and log in — the server is already configured, no address or port needed.
+4. Found a bug? Press **Ctrl+Z** in game or open an issue.
 
-## Português
-1. Baixe `kaldora-client.zip` em [Releases](../../releases/latest).
-2. Extraia e execute `otclient_dx_x64.exe`.
-3. Crie a conta em https://kaldora.party e entre.
-4. Servidor: `play.kaldora.party:7100`. Reporte bugs com **Ctrl+Z**.
+## Polski
+1. Rozpakuj archiwum w dowolnym miejscu (np. `C:\Kaldora`).
+2. Uruchom `otclient_dx_x64.exe` (DirectX, zalecany) albo `otclient_gl_x64.exe` (OpenGL).
+3. Załóż konto na https://kaldora.party i zaloguj się — serwer jest już skonfigurowany, bez adresu i portu.
+4. Znalazłeś błąd? Naciśnij **Ctrl+Z** w grze albo otwórz issue.
+
+## Português (BR)
+1. Extraia o arquivo em qualquer pasta (ex.: `C:\Kaldora`).
+2. Execute `otclient_dx_x64.exe` (DirectX, recomendado) ou `otclient_gl_x64.exe` (OpenGL).
+3. Crie sua conta em https://kaldora.party e entre — o servidor já está configurado, sem endereço ou porta.
+4. Encontrou um bug? Pressione **Ctrl+Z** no jogo ou abra uma issue.
+
+Bug reports / Zgłoszenia błędów / Relatos de bugs: https://github.com/KarolakTibia/kaldora-client/issues
